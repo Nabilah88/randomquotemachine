@@ -1,0 +1,35 @@
+body{
+    background-color:black;
+    color:white;
+  }
+  .container-fluid{
+    background: url(https://source.unsplash.com/scXBpJWcFSo/1600x900);
+    height:600px;
+    
+  }
+  .quotes{
+    background-color:black;
+    margin-top:20px;
+    margin-right:auto;
+    margin-left:auto;
+    opacity:.7;
+    width:700px;
+    height:200px;
+    color:white; 
+  }
+  
+  h1{
+    font-family:"Georgia";
+  }
+  p{
+    font-family:"Times New Roman";
+    font-style:Italic;
+    font-size:20px;
+  }
+  .lead{
+    font-size:25px;
+    font-style:Italic;
+    font-family:"Times New Roman";
+    margin-top:30px;
+  }
+  
